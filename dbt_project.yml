@@ -41,3 +41,5 @@ models:
     
     JSON:
       +materialized: table  
+    XML:
+      +materialized: table  
