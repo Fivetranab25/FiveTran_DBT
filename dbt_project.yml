@@ -42,4 +42,6 @@ models:
     JSON:
       +materialized: table  
     XML:
-      +materialized: table  
+      +materialized: table 
+    JoinedData:
+      +materialized: table 
