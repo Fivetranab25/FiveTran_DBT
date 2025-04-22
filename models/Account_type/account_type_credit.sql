@@ -1,0 +1,2 @@
+select CUSTOMER_ID,FIRST_NAME,MIDDLE_NAME,ACCOUNT_TYPE,RESIDENTIAL,billing,branch,accountNumber,balance
+from MYDB.MAIN.JSON_FILE_CASESTUDY2 where ACCOUNT_TYPE = 'Credit Card'

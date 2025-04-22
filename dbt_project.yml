@@ -45,3 +45,5 @@ models:
       +materialized: table 
     JoinedData:
       +materialized: table 
+    Account_type:
+      +materialized: table 
